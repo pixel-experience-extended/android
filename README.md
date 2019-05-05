@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Extended-P/manifest -b pie
+repo init -u https://github.com/pixel-experience-extended/manifest -b pie
 
 # Sync
 repo sync -c -j8 --force-sync --no-clone-bundle --no-tags
