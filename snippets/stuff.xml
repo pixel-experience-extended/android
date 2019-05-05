@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="ex"
-          fetch="https://github.com/extended-p" />
+          fetch="https://github.com/pixel-experience-extended" />
 
   <!-- SmartNav -->
   <project path="packages/apps/SmartNav" name="packages_apps_SmartNav" remote="ex" revision="pie" />
